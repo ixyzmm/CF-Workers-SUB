@@ -13,6 +13,7 @@ let timestamp = 4102329600000;//2099-12-31
 //节点链接 + 订阅链接
 let MainData = `
 https://uuid.luckyimm.us.kg/5566
+https://uuic.luckyimm.us.kg/8899
 `
 
 let urls = [];
